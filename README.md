@@ -5,6 +5,3 @@
 The App also takes the  input (date and time) from the user for a particular item.
 The app can persist the todo items after restarting the app.
 
-## DEMO
-
-<img src='todoNew.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
